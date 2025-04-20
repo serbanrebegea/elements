@@ -151,7 +151,7 @@ export default function App() {
 
   return (
     <div className="app-container">
-      <h1>Tile Layout Optimizer</h1>
+      <h1>CeiliX Elements Layout Configurator</h1>
 
       {/* Canvas & polygon controls */}
       <div className="controls">
