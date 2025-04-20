@@ -1,0 +1,28 @@
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+.app-container {
+  max-width: 900px;
+  margin: auto;
+}
+.controls {
+  margin-top: 20px;
+}
+.controls label {
+  display: inline-block;
+  margin-right: 20px;
+}
+.controls input {
+  margin-left: 6px;
+  width: 80px;
+}
+.controls button {
+  padding: 6px 12px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.result {
+  margin-top: 20px;
+  font-weight: bold;
+}
